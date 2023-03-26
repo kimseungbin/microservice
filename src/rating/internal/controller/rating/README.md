@@ -1,0 +1,1 @@
+While the repository provides an interface to get all ratings for a record, the controller implements the aggregation logic for them.
