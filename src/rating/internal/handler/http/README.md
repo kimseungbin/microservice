@@ -1,0 +1,1 @@
+The handler handles both `GET` and `PUT` requests.
