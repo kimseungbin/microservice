@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	model "microservices/metadata/pkg"
-	"microservices/movie/internal/gateway"
+	"microservices/movie/gateway"
 	"net/http"
 )
 
