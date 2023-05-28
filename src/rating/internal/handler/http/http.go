@@ -5,7 +5,7 @@ import (
 	"errors"
 	"log"
 	"microservices/rating/internal/controller/rating"
-	model "microservices/rating/pkg"
+	"microservices/rating/pkg/model"
 	"net/http"
 	"strconv"
 )

@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"microservices/metadata/internal/repository"
-	model "microservices/metadata/pkg"
+	"microservices/metadata/pkg/model"
 )
 
 // ErrNotFound is returned when a requested record is not found.

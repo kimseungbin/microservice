@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"microservices/rating/internal/repository"
-	model "microservices/rating/pkg"
+	"microservices/rating/pkg/model"
 )
 
 // ErrNotFound is returned when no ratings are found for a record.

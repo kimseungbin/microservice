@@ -3,7 +3,7 @@ package memory
 import (
 	"context"
 	"microservices/rating/internal/repository"
-	model "microservices/rating/pkg"
+	"microservices/rating/pkg/model"
 )
 
 // Repository defines a rating repository.

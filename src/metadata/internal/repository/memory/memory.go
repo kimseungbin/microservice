@@ -3,7 +3,7 @@ package memory
 import (
 	"context"
 	"microservices/metadata/internal/repository"
-	model "microservices/metadata/pkg"
+	"microservices/metadata/pkg/model"
 	"sync"
 )
 

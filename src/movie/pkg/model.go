@@ -1,6 +1,8 @@
 package model
 
-import model "microservices/metadata/pkg"
+import (
+	"microservices/metadata/pkg/model"
+)
 
 // MovieDetails includes movie metadata and its aggregated rating.
 type MovieDetails struct {
