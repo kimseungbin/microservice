@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	metadataModel "microservices/metadata/pkg/model"
-	"microservices/movie/gateway"
+	"microservices/movie/internal/gateway"
 	model "microservices/movie/pkg"
 	ratingModel "microservices/rating/pkg/model"
 )

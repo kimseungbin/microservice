@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"microservices/movie/gateway"
+	"microservices/movie/internal/gateway"
 	"microservices/rating/pkg/model"
 	"net/http"
 )
